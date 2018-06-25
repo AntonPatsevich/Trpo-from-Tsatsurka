@@ -1,0 +1,6 @@
+D:\C#\DigitL\DigitL\bin\Debug\DigitL.exe.config
+D:\C#\DigitL\DigitL\obj\Debug\DigitL.csprojResolveAssemblyReference.cache
+D:\C#\DigitL\DigitL\bin\Debug\DigitL.exe
+D:\C#\DigitL\DigitL\bin\Debug\DigitL.pdb
+D:\C#\DigitL\DigitL\obj\Debug\DigitL.exe
+D:\C#\DigitL\DigitL\obj\Debug\DigitL.pdb
